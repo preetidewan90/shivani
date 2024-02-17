@@ -1,0 +1,90 @@
+body {margin: 0px;padding: 0px;background-color:#f9f9f9;font-family: Arial, Helvetica, sans-serif;font-size:16px;}
+h1 {margin:0 0 10px;font-weight: 800;font-size: 60px;font-weight: 700; color:#EB232D;}
+span{color: #fff;}
+ul{margin:0;padding:0;list-style:none;}
+a {text-decoration:none;}
+.home-section {float: left;width: 100%;padding: 50px 0;}
+h2 {font-weight: 600;font-size: 40px;line-height: 35px;}
+.btn {padding: 10px;display: flex;gap: 10px;justify-content: center;}
+h3 {font-weight:700;font-size: 20px;}
+img{width: 100%;height: 100%;border-radius: 10px;}
+.btn.btn-danger{padding: 8px 15px;border-radius: 10px;background-color: #52AB98;border:0}
+.btn.btn-danger a {color: #fff;}
+img {width: 100%;height: 100%;}
+.line{border-bottom: 5px solid #333;width:15%;border-radius: 8px;display: inline-block;}
+
+a.navbar-brand {width: 200px;}
+.card{box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;}
+.harbor{padding-left: 30px;background-color:#8FB7D4;border-radius: 8px;}
+.harbor h5{line-height: 30px; padding: 15px;}
+.harbor-main .card-text{font-size: 14px;line-height: 15px;margin-top: 10px;}
+.harbor-section{background-color: #52AB98;}
+.harb {background: #52ab98;padding: 30px;border-radius: 10px;}
+.harbor-main .card-body{background-color: #8FB7D4;}
+.footer-block{float: left;width: 100%;padding: 50px 0;}
+h6{font-weight: 600;font-size: 20px;line-height: 35px;}
+.footer-block{background-color:#333c;;color: #fff;}
+.foot-img{width: 170px;}
+.footer a {color: #fff !important;line-height: 30px;font-size: 14px;}
+.footer-address{background: #fff; padding: 10px; border-radius: 8px;}
+.footer-address a{color: #333 !important;display:flex;}
+.footer-li{display: flex;gap: 12px;margin-top: 20px;}
+.footer-li i{border-radius: 21px;padding: 10px;color: #fff;border: 1px solid #fff;font-size: 16px;}
+.footer span{color: #333;font-size: 12px;}
+.card-text{text-align: center;}
+/*-----------about-us-----------------*/
+.about-us .banner-block{background-image: url(../images/gorup\ team.jpg);padding:300px;background-position: bottom;}
+.about-us .about-block{background-color: #52ab98;}
+.success{background: #52ab98;padding: 30px;border-radius: 10px;}
+.about-us .icon-img{width: 200px;margin-right: 20px;height: 60px;}
+.about-us .icon-main{display: flex; gap:15px;padding: 20px;}
+.icon-block {background-image: url(../images/bg41.jpg);}
+.image-row .img-pic{border-radius: 0 !important;height:235px !important;}
+.image-row .img-pic img{border-radius: 0 !important;}
+.image-row p{font-weight: 700;margin: 0;}
+.image-row .card-body{background-color: #009fd9;}
+.images-block{background-image:url(../images/background.png) ;}
+/*------------------------------services---------------------------*/
+.services .banner-block{padding:250px;background: no-repeat;background-image: url(../images/services-banner.jpg);background-size: cover;background-position:center;}
+.success ul {list-style: disc;margin-left: 20px;}
+.services .img-pic{width: 100px;}
+.services .card{padding: 20px;height: 284px;}
+.services p{line-height: 27px;font-size: 18px;}
+.Conversation{padding: 28px;background-image: url(../images/contact_img.jpg);}
+.learning-center .banner-block{background-image: url(../images/learners-lesson.jpg);padding:250px;background-position: center;background-size: cover;margin-bottom: 30px;}
+.contact-block span{color: black;}
+
+/*--------------------------------contact-us---------------------*/
+.Contact-Us .banner-block{background-image: url(../images/contact_img.jpg);padding:200px 0px;background-position: top;}
+.Contact-Us .banner-text{width: 44%;}
+.Contact-Us .banner-text p{font-weight: 600;}
+.Contact-Us .form-add{background: #d5e4ee;padding: 20px;border: 1px solid #bcb8b8;border-radius: 3px;}
+.form-cont{padding-right: 30px;}
+.Contact-Us span{color: red;}
+.Contact-Us .form-add ul li{margin-bottom: 8px;}
+.form-main
+{
+  padding: 20px;
+  background:  #d5e4ee;
+}
+
+.form-control::placeholder
+{
+  color: #333;
+
+}
+.Contact-Us input, .form-select{padding: 10px;
+font-size: 14px;
+height: 40px;
+width: 100%;
+border: 1px solid #8080808f;
+border-radius: 5px;}
+textarea
+{
+  padding: 10px;
+  font-size: 14px;
+  width: 100%;
+  border: 1px solid #8080808f;
+  border-radius: 5px;
+}
+
